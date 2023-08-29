@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="sydnie_intro">Hello World! My name is Sydnie and I am currently a senior computer science student at Howard University. I really love dogs and travelling
+    </string>
+    <string name="sydnie_button">Say Hello</string>
+</resources>
